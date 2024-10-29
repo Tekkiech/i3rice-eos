@@ -22,4 +22,4 @@
 
 - **1. For an EndeavourOS i3 installation**: download and install the fonts, drop the folders into your home folder (overwriting when asked to), open [nwg-look](https://github.com/nwg-piotr/nwg-look), apply the Material-Black-Lavender-Aero GTK theme and restart the session
 
-- **2. Other (for Arch-based distros)**: download and install the fonts, run `yay -S i3 i3blocks picom rofi xfce4-terminal neofetch cava pulseaudio feh dunst scrot polkit-gnome nwg-look` and drop the files into your home folder, apply the GTK theme with nwg-look, for other distros use your respective package manager to download everything listed
+- **2. Other (for Arch-based distros)**: download and install the fonts, run `yay -S i3 picom rofi xfce4-terminal neofetch cava pulseaudio feh dunst scrot polkit-gnome nwg-look` and drop the files into your home folder, apply the GTK theme with nwg-look, for other distros use your respective package manager to download everything listed
