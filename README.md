@@ -13,6 +13,8 @@
 - [pulseaudio](https://github.com/pulseaudio/pulseaudio) (audio server)
 - [feh](https://github.com/derf/feh) (wallpaper setter + image viewer)
 - [dunst](https://github.com/dunst-project/dunst) (notification daemon)
+- [xclip](https://github.com/astrand/xclip) (clipboard utility)
+- [maim](https://github.com/naelstrof/maim) (screenshot utility used together with xclip)
 - [scrot](https://github.com/resurrecting-open-source-projects/scrot) (screenshot tool)
 - **fonts**: [Avant Garde Regular](https://www.fontsplace.com/avant-garde-regular-free-font-download.html), [AvantGarde Medium](https://www.fontsplace.com/avant-garde-medium-free-font-download.html)
 - **extra**: an edit of [Material-Black](https://www.gnome-look.org/p/1316887) GTK theme featuring lavender colors and transparency is included
