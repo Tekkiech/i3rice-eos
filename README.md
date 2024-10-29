@@ -15,7 +15,6 @@
 - [dunst](https://github.com/dunst-project/dunst) (notification daemon)
 - [xclip](https://github.com/astrand/xclip) (clipboard utility)
 - [maim](https://github.com/naelstrof/maim) (screenshot utility used together with xclip)
-- [scrot](https://github.com/resurrecting-open-source-projects/scrot) (screenshot tool)
 - **fonts**: [Avant Garde Regular](https://www.fontsplace.com/avant-garde-regular-free-font-download.html), [AvantGarde Medium](https://www.fontsplace.com/avant-garde-medium-free-font-download.html)
 - **extra**: an edit of [Material-Black](https://www.gnome-look.org/p/1316887) GTK theme featuring lavender colors and transparency is included
 - **tip**: use [Papirus Icon Theme](https://github.com/PapirusDevelopmentTeam/papirus-icon-theme) along with [Catppuccin](https://github.com/catppuccin/papirus-folders) for matching icons
@@ -24,4 +23,4 @@
 
 - **1. For an EndeavourOS i3 installation**: download and install the fonts, drop the folders into your home folder (overwriting when asked to), open [nwg-look](https://github.com/nwg-piotr/nwg-look), apply the Material-Black-Lavender-Aero GTK theme and restart the session
 
-- **2. Other (for Arch-based distros)**: download and install the fonts, run `yay -S i3 picom rofi xfce4-terminal neofetch cava xclip maim pulseaudio feh dunst scrot polkit-gnome nwg-look` and drop the files into your home folder, apply the GTK theme with nwg-look, for other distros use your respective package manager to download everything listed
+- **2. Other (for Arch-based distros)**: download and install the fonts, run `yay -S i3 picom rofi xfce4-terminal neofetch cava xclip maim pulseaudio feh dunst  polkit-gnome nwg-look` and drop the files into your home folder, apply the GTK theme with nwg-look, for other distros use your respective package manager to download everything listed
